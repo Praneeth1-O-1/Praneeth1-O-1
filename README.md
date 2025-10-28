@@ -48,4 +48,4 @@ Some of the stuff I know:
 
 
 PS: Me when my code works:
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/your_video_id](https://www.pinterest.com/pin/haikyuu-gif-haikyuu-discover-share-gifs--722194490247529937/)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.pinterest.com/pin/haikyuu-gif-haikyuu-discover-share-gifs--722194490247529937/" frameborder="0" allowfullscreen></iframe>
