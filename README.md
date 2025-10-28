@@ -8,6 +8,7 @@
 
 ⚡ Fun fact: I can debug faster with good music 🎧 
 
+Some of the stuff I know:
 
 <div align="center">
 
