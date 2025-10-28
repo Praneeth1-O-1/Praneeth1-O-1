@@ -1,8 +1,11 @@
-Hey there, I'm Bala Praneeth!
+# 👋  Hey there, I'm Bala Praneeth!
 
  **Computer Science & Engineering Student** at *Amrita Vishwa Vidyapeetham*  
+ 
  I love turning ideas into real projects — from full-stack apps to AI models  
- Always curious, always coding, and always learning something new  
+ 
+💡 Always curious, always coding, and always learning something new  
+
 ⚡ Fun fact: I can debug faster with good music 🎧 
 
 
