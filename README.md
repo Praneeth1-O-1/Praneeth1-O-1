@@ -1,12 +1,10 @@
-# 👋  Hey there, I'm Bala Praneeth!
+#  Hey there, I'm Bala Praneeth!
 
  **Computer Science & Engineering Student** at *Amrita Vishwa Vidyapeetham*  
  
- I love turning ideas into real projects — from full-stack apps to AI models  
- 
-💡 Always curious, always coding, and always learning something new  
+ I love turning ideas into real projects — from full-stack apps to AI models .
 
-⚡ Fun fact: I can debug faster with good music 🎧 
+ 
 
 Some of the stuff I know:
 
@@ -46,9 +44,8 @@ Some of the stuff I know:
 
 </div>
 
-
 PS: Me when my code works:
 <p align="center">
-  <img src="[https://www.pinterest.com/pin/486388828488096312/](https://www.pinterest.com/pin/486388828488096312/)" alt="Haikyuu GIF" />
+  <img src="https://www.pinterest.com/pin/486388828488096312.gif" alt="Haikyuu GIF" width="300" />
 </p>
 
