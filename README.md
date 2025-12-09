@@ -46,6 +46,7 @@ Some of the stuff I know:
 
 PS: Me when my code works:
 <p align="center">
-  <img src="https://media.tenor.com/LeL2YHf5cJQAAAAC/haikyuu-hinata.gif" alt="Haikyuu GIF" />
+  <img src="https://tenor.com/view/haikyuu-gif-19867019" alt="Haikyuu GIF" />
 </p>
+
 
