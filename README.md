@@ -41,6 +41,9 @@ Some of the stuff I know:
 <img src="https://img.shields.io/badge/imghdr-FFD43B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/os-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/csv-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-API%20Development?style=for-the-badge&logo=flask&logoColor=white&color=000000" />
+<img src="https://img.shields.io/badge/PostgreSQL-Relational%20DB?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" />
+
 
 </div>
 
