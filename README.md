@@ -2,9 +2,11 @@
 
  **Computer Science & Engineering Student** at *Amrita Vishwa Vidyapeetham*  
  
- I love turning ideas into real projects — from full-stack apps to AI models .
+I’m a systems-oriented developer who enjoys understanding how things work under the hood, not just making them work.
 
- 
+My interests sit at the intersection of backend engineering, deep learning models, and algorithmic problem solving. I care about clean architecture, invariant-driven logic, and writing code that behaves predictably even in edge cases.
+
+🎶I also debug better with music. 
 
 Some of the stuff I know:
 
