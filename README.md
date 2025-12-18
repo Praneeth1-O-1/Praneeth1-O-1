@@ -17,6 +17,14 @@ Some of the stuff I know:
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<!-- Web Scraping Stack -->
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Scraping-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LXML-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
